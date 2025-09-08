@@ -1,0 +1,1 @@
+This repo contains projects from Google Codelab, completed as part of the official Android developer courses: https://developer.android.com/courses
