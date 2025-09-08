@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loc001">Blue Ridge Parkway, North Carolina, USA</string>
+    <string name="loc002">Konigssee Lake, Bavaria, Germany</string>
+    <string name="loc003">Kalampaka, Meteora, Greece</string>
+    <string name="loc004">Theodore Roosevelt NP, North Dakota, USA</string>
+    <string name="loc005">Lake Garda, Riva del Garda, Italy</string>
+    <string name="loc006">Grayson Lake, Kentucky, USA</string>
+    <string name="loc007">Isle of Purbeck, Dorset, England, UK</string>
+    <string name="loc008">Unspecified location</string>
+    <string name="loc009">Maddalena Archipelago, Sardinia, Italy</string>
+    <string name="loc010">Somerset Levels, Glastonbury Tor, UK</string>
+    <string name="loc011">Easter Island, Chile</string>
+    <string name="loc012">Dyrhólaey, Iceland</string>
+    <string name="loc013">Issyk-Kul Region, Kyrgyzstan</string>
+    <string name="loc014">Dolomites, South Tyrol, Italy</string>
+    <string name="loc015">Highlands, Scotland, UK</string>
+    <string name="loc016">Grand Teton NP, Wyoming, USA</string>
+    <string name="loc017">Plitvice Lakes NP, Croatia</string>
+    <string name="loc018">Niue Island</string>
+    <string name="loc019">Porto Katsiki Beach, Lefkada, Greece</string>
+    <string name="loc020">New River Gorge NP, West Virginia, USA</string>
+</resources>
