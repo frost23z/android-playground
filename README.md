@@ -7,6 +7,7 @@ This repo contains projects from Google Codelab, completed as part of the offici
 1. [BusinessCard](https://github.com/frost23z/android-playground/tree/BusinessCard)
 2. [ArtSpaceApp](https://github.com/frost23z/android-playground/tree/ArtSpaceApp)
 3. [30DaysApp](https://github.com/frost23z/android-playground/tree/30DaysApp)
+4. [MyCityApp](https://github.com/frost23z/android-playground/tree/MyCityApp)
 
 
 ## Getting Started
