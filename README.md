@@ -1,6 +1,8 @@
 # Android Playground
 
-This repo contains projects from Google Codelab, completed as part of the official Android developer courses: https://developer.android.com/courses
+This repository is a collection of small Android practice projects implemented in Kotlin using Jetpack Compose. Each project was built while following Google's `Android Basics with Compose` course (https://developer.android.com/courses/android-basics-compose/course) and is intended for learning, experimentation, and reference.
+
+Each project lives on its own git branch so you can switch to the branch for the exercise you want to run, open the project in Android Studio, and run it on an emulator or device.
 
 ## Projects
 
